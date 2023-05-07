@@ -7,3 +7,7 @@
 벨로그 : https://velog.io/@vytndyd99
 
 노션 : https://www.notion.so/java-c51935746d144a30bc5d82810b35eb9f
+
+인스타그램 : https://www.instagram.com/andrew_suyong/
+
+페이스북 : https://www.facebook.com/profile.php?id=100007501999261
