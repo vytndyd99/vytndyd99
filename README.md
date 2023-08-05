@@ -19,6 +19,8 @@ database : https://www.notion.so/DB-bc6af36c0e4b47a2a6dc06f845f79f60
 <br/>
 react & SpringBoot : https://www.notion.so/React-js-SpringBoot-f4797a9b5fe84969a34cceb6af831a5f
 <br/>
+경기청년갭이어 프로젝트 진행 : https://www.notion.so/f4797a9b5fe84969a34cceb6af831a5f?pvs=4
+<br/>
 
 **인스타그램** : <br/>
 https://www.instagram.com/andrew_suyong/
